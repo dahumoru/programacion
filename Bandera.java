@@ -1,4 +1,4 @@
-public class bandera {
+public class Bandera {
     public static void main(String args[]) {
 
         char bandera[][];
